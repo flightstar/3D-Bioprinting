@@ -1,5 +1,6 @@
 # 3D Bioprinting
 
+# Introduction
 Khi cơ thể của chúng ta chịu bất kỳ sự tổn thương nào từ bên trong tới bên ngoài, từ mô và tế bào thì tủy xương của chúng ta sẽ sản sinh ra tế bào gốc vào hệ tuần hoàn máu của cơ thể. Các tế bào gốc này trôi theo dòng máu và đi tới các cơ quan bị tổn thương, tiết ra protein kích thích phát triển để chữa mô bị tổn thương. Tế bào gốc là nguyên liệu để sửa chữa các bộ khung bị tổn thương trong cơ thể hay cung cấp tế bào mới để chữa bệnh cho tế bào bị hủy hoại. Và tế bào gốc cũng chính là nguyên liệu trong máy in các bộ phận người
 
 ![](https://www.explainingthefuture.com/images/bioprinter_500x360.jpg)
@@ -33,4 +34,13 @@ Quá trình sinh thiết một cơ quan người bắt đầu với một mẫu 
 Và lĩnh vực cấy ghép tế bào gốc đang dần thay thế cho lĩnh vực cấy ghép nội tạng con người.
 
 [![3D Bioprinting](https://lh3.googleusercontent.com/XF1lHmzIIzLsWDKCzlDyqp2AYUQBbAexHfVyC3f3xtf1dFQBFaWc86KqBBDlGzbMpNETPuti53fk1R4mDVzsRK4CyUF6YDxWYFiYPmfy8OWdCHBkv7WyQFxS0dDSMS6wiuImbiqWusGXOeig_Oa3IbtkkVy3XcBcCKxRELEMgpA2qwyDDJMXNWNV9ejh-OegfJhMxW65SAPDJ4oQOns60X3nMUOb3zIaXWS8maQ08aQK3vjrhLrQ87UWydzyhUztmVFC5KkXvsns0X2gO5XOlfEsIUPKD5ryf7kRSGgcMpginz_Klyq59uQ5GvTgTGxDdSNg0IyhI6g7OySi8nVeMT1HGhOPKDRnw3cAoOE14otMKD-9wtY3fmhvABsd6Vf0BOHAtHl0T86gAlRZoeV74Zpo_B-LIPLPnj_kI4WyH5xmTPLWjWzvcP75hmJPpXt4AE716lwf8FZ1BJj_wZOp1Q-JQrOHLA7ecStaDsPUIv8s0yDA_y_eHM-wNn2Y5H6_yes2xkngUM3wKWTFebLgBhqelGxnd5demqCRDo_dSUr0NHWElU9IkzdFjj6clFrhAIBJKa9jicAfbrVy4dWLJGSuncAnX_eiqaJZsKzLttMvo4cGWg4aSeNC0_b6yxeGbfI865V9MVv0yDQBb_VyIpW7RzDVpk_1y9AczfJHjj0e_lnLkv0gNWxtLPWZ3_S_wNl9eqdbIMMRcu64Cg=w663-h360-no)](https://youtu.be/FzBKmGERhus)
+
+## Implementation
++ A robotic platform that moves in three dimensions within a certain space. It can be a Cartesian configuration like in 3D printers, or robotic arms like those used in automation processes (SCARA, spherical, polar, etc).
++ A system of pumping/cell deposition , to infuse cells. It can also be used to deposit other liquid or gel materials. The commonly used systems are peristaltic pumps, piezoelectric systems, and syringe-pumps.
++ A support that would replace the conventional head extruder in the printer, as we do not want to fry cells at temperatures over their survival one, nor contaminate them with the mechanism. 
++ An extra conventional head (optional) to work with biocompatible thermoplastics (PCL, PLA, PGA, etc.) that can be used to reinforce the cell matrices, without damaging the cells with these high temperatures. 
++ A disinfection or decontamination system for items to be reused. 
++ Single-use (disposable) materials that will be in direct contact with the cells of each patient.
+
 
