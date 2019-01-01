@@ -39,7 +39,7 @@ Và lĩnh vực cấy ghép tế bào gốc đang dần thay thế cho lĩnh v�
 + A robotic platform that moves in three dimensions within a certain space. It can be a Cartesian configuration like in 3D printers, or robotic arms like those used in automation processes (SCARA, spherical, polar, etc).
 + A system of pumping/cell deposition , to infuse cells. It can also be used to deposit other liquid or gel materials. The commonly used systems are peristaltic pumps, piezoelectric systems, and syringe-pumps.
 + A support that would replace the conventional head extruder in the printer, as we do not want to fry cells at temperatures over their survival one, nor contaminate them with the mechanism. 
-+ An extra conventional head (optional) to work with biocompatible thermoplastics (PCL, PLA, PGA, etc.) that can be used to reinforce the cell matrices, without damaging the cells with these high temperatures. 
++ An extra conventional head (optional) to work with biocompatible thermoplastics (PCL - Polycaprolacton, PLA - Polylactic acid, PGA - Polyglycolide, etc.) that can be used to reinforce the cell matrices, without damaging the cells with these high temperatures. 
 + A disinfection or decontamination system for items to be reused. 
 + Single-use (disposable) materials that will be in direct contact with the cells of each patient.
 
