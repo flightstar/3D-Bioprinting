@@ -21,7 +21,7 @@ Ví dụ, tế bào gốc của da có thể làm ra thêm những tế bào g�
 + Mô mỡ (gồm các tế bào mỡ) được lấy bằng phương pháp hút mỡ, là nguồn cung cấp tế bào gốc tốt nhất từ người trưởng thành.
 + Máu, trong đó máu được rút ra từ người hiến tặng (tương tự như hiến máu), đi qua máy tách chiết các tế bào gốc và trả lại các phần khác của máu cho người hiến.
 
-Vào năm 2007, hai nhân vật xuất sắc, **Shinya Yamanaka (bên trái) từ Nhật Bản và Jamie Thompson (bên phải) từ Mỹ**, đã có một phát minh rất quan trọng là việc họ đã phát hiện ra rằng, **tế bào người trưởng thành có thế được lập trình lại để thành giống như tế bào phôi, họ gọi chúng là tế bào iPSCs viết tắt của Induced Pluripotent Stem Cells**
+Vào năm 2007, hai nhân vật **Shinya Yamanaka (bên trái) từ Nhật Bản và Jamie Thompson (bên phải) từ Mỹ**, đã có một phát minh rất quan trọng là việc họ đã phát hiện ra rằng, **tế bào người trưởng thành có thế được lập trình lại để thành giống như tế bào phôi, họ gọi chúng là tế bào iPSCs viết tắt của Induced Pluripotent Stem Cells**
 
 ![Shinya Yamanaka](https://taf.fi/wp-content/uploads/2014/05/YAMANAKA_011Aki-Pekka_Sinikoski_web-320x320.jpg)   ![Jamie Thompson](https://www.stemcell.ucsb.edu/sites/www.stemcell.ucsb.edu/files/styles/page/public/people/thomson.jpg)
 
