@@ -42,5 +42,5 @@ Và lĩnh vực cấy ghép tế bào gốc đang dần thay thế cho lĩnh v�
 + An extra conventional head (optional) to work with biocompatible thermoplastics (PCL - Polycaprolacton, PLA - Polylactic acid, PGA - Polyglycolide, etc.) that can be used to reinforce the cell matrices, without damaging the cells with these high temperatures. 
 + A disinfection or decontamination system for items to be reused. 
 + Single-use (disposable) materials that will be in direct contact with the cells of each patient.
-
+## Projects
 
