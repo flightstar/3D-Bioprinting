@@ -5,6 +5,8 @@ Khi cơ thể của chúng ta chịu bất kỳ sự tổn thương nào từ b�
 
 ![](https://www.explainingthefuture.com/images/bioprinter_500x360.jpg)
 
+In 3D sinh học là lĩnh vực nghiên cứu khoa học tự nhiên và khoa học xã hội liên ngành tổng hợp. Các nhà khoa học phải giao tiếp với các kỹ sư nghiên cứu và chế tạo, các kỹ sư phải giao tiếp và hợp tác với các chuyên gia sinh học, và các chuyên gia sinh học phải hợp tác và giao tiếp với các bác sĩ lâm sàng. Chỉ nhờ sự hợp tác hiệu quả của mỗi chuyên gia trong từng lĩnh vực, cùng với mỗi kỹ năng trong số họ thì chúng ta sẽ nhận ra tiềm năng đích thực cho lĩnh vực in 3D tổng hợp trong nghành y tế. 
+
 ## Tế bào gốc (Stem cell) là gì?
 Tế bào gốc là các tế bào sinh học có khả năng biệt hoá thành các tế bào khác, từ đó phân bào để tạo ra nhiều tế bào gốc hơn.
 
